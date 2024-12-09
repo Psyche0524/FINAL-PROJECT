@@ -1,0 +1,1 @@
+ask = input("Hi, Sorry this code is empty")
